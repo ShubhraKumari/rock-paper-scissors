@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Rock paper scissors game
+Classic rock paper scissors game
